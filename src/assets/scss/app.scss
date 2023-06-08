@@ -1,0 +1,11 @@
+@import "../fonts/visby-cufonfonts-webfont/style.scss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hello {
+  font-size: 20px;
+}
+
+
